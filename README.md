@@ -16,7 +16,8 @@ Display All Contacts
 
 //https://monosnap.com/file/cpwK7RY6QBtxZnZ3Ueeb2U8TILDSoL
 
-```node index.js --action="list"
+```
+node index.js --action="list"
 
 ```
 
@@ -25,7 +26,8 @@ Get Contact by ID
 
 //https://monosnap.com/file/3eB6dBlNcB1wRZ9TFoqBP35KchTtvz
 
-```node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
+```
+node index.js --action="get" --id 05olLMgyVQdWRwgKfg5J6
 
 ```
 
